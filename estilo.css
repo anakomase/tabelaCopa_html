@@ -1,0 +1,77 @@
+body{
+	background-image: url(planofundo.jpg);
+	
+}
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 40px;
+	color: #d1bb2a ;
+	text-decoration: underline;
+}
+
+h2{
+	text-align: center;
+	font-size: 30px;
+	color: #850b0b;
+}
+
+table{
+	background-color: #ebebeb ;
+	border: 10px solid #590808; 
+	padding: 10px;
+	width: 50%;
+	margin-top: 5%;
+	border-collapse: collapse;
+	font-family: arial;
+}
+#russia{
+	list-style-image: url(russia.jpg);
+}
+#arabia{
+	list-style-image: url(arabia.png);
+}
+#egito{
+	list-style-image: url(egito.png);
+}
+#uruguai{
+	list-style-image: url(uruguai.jpg);
+}
+#portugal{
+	list-style-image: url(portugal.png);
+}
+#espanha{
+	list-style-image: url(espanha.jpg);
+}
+#marrocos{
+	list-style-image: url(marrocos.png);
+}
+#ira{
+	list-style-image: url(ira.jpg);
+}
+#franca{
+	list-style-image: url(franca.png);
+}
+#australia{
+	list-style-image: url(australia.png);
+}
+#peru{
+	list-style-image: url(peru.png);
+}
+#dinamarca{
+	list-style-image: url(dinamarca.png);
+}
+.hora{
+	color: #3f3fc4;
+}
+.jogo{
+	font-weight: bold;
+}
+.cidade{
+	color: #403d3c;
+	font-size: 14px;
+}
+#linha{
+
+}
